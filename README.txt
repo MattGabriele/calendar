@@ -1,4 +1,4 @@
-Hello Peter and whomever it may concern,
+Hello Peter and whoever it may concern,
 
 This project can be launched from opening the index.html file.
 
